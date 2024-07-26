@@ -273,7 +273,7 @@ input::placeholder {
 }
 
 .gallery-item:nth-child(7) .img-box {
-    background-image: url('http://www.bostonis.org/wp-content/uploads/2019/09/3.jpg');
+    background-image: url('https://www.careergirls.org/wp-content/uploads/2018/05/Artist_1920x1080.jpg');
 }
 
 .gallery-item:nth-child(8) .img-box {
@@ -285,7 +285,7 @@ input::placeholder {
 }
 
 .gallery-item:nth-child(10) .img-box {
-    background-image: url('https://www.simplybusiness.co.uk/static/73cc942cff3a0f5f8565e0640affb91c/aef24/how-to-become-a-makeup-artist-uk.jpg');
+    background-image: url('https://www.thebestyou.com/wp-content/uploads/2022/10/Make-Up-Application.jpg');
 }
 
 .gallery-item:nth-child(11) .img-box {
@@ -301,7 +301,7 @@ input::placeholder {
 }
 
 .gallery-item:nth-child(14) .img-box {
-    background-image: url('https://images.downloadcloud.com/wp-content/uploads/2016/05/Maya2.jpg');
+    background-image: url('https://3dstudio.co/wp-content/uploads/2022/01/what-is-3d-modeling.jpg');
 }
 
 .gallery-item:nth-child(15) .img-box {
@@ -620,65 +620,81 @@ input::placeholder {
         padding-top: 0.75rem;
         padding-bottom: 0.75rem;
     }
+
     .navbar-nav {
         margin-top: 1rem;
         margin-bottom: 1rem;
         align-items: center !important;
     }
+
     .nav-item {
         margin-top: 0.5rem;
         margin-bottom: 0.5rem;
     }
+
     .nav-item .cart {
         transform: translate(0%, -50%) scale(1.5);
         margin-bottom: 0.25rem;
     }
+
     .container-custom {
         width: 100%;
         padding-right: 2rem;
         padding-left: 2rem;
     }
+
     .promo .container-custom {
         padding-top: 30px;
         padding-bottom: 30px;
     }
+
     .h1-custom,
     .subtitle {
         width: 100%;
     }
+
     .h1-custom {
         font-size: 30px;
     }
+
     .promo,
     .search-container {
         margin-bottom: 30px;
     }
+
     .grid-section {
         grid-template-columns: 100%;
         grid-template-areas: "top-menu""side-menu""gallery""pagination";
     }
+
     .custom-link {
         font-size: 13px;
         width: auto;
         margin-right: 15px;
     }
+
     .filter-button {
         margin: 0 auto 30px;
     }
+
     .grid-gallery {
         grid-template-columns: repeat(auto-fill, minmax(203px, 1fr));
         grid-auto-rows: 203px;
         gap: 10px;
     }
+
     .img-box {
         height: 130px;
     }
+
     .pagination-link {
         width: 38px;
     }
+
     .pagination-link-next {
         width: 56px;
     }
+
     .pagination-link,
     .pagination-link-next {
         height: 38px;
@@ -686,53 +702,68 @@ input::placeholder {
         line-height: 12px;
         padding: 12px 11px 12px 10px;
     }
+
     .bg-footer>.container-custom {
         padding-top: 30px;
         padding-bottom: 30px;
     }
+
     .col-8>.row {
         flex-direction: column;
     }
+
     .row-cols-3>* {
         flex: 0 0 auto;
         width: 100%;
     }
+
     .bg-black>.container-custom {
         padding-top: 13px;
         padding-bottom: 13px;
     }
+
     .bg-black>.container-custom>.container-fluid {
         flex-direction: column;
     }
+
     .footer-link-small {
         font-size: 11px;
         margin-bottom: 13px;
     }
+
     .grid-section {
         margin-bottom: 30px;
     }
+
     .search-result {
         flex-direction: column;
     }
+
     .search-result-count {
         flex-direction: row;
         padding-bottom: 10px;
     }
+
     .grid-side-menu {
         text-align: center;
     }
+
     .pagination {
         padding-top: 30px;
     }
+
     .custom-padding-top {
         padding-top: 30px;
     }
+
     .footer-text {
         width: 100%;
     }
+
     .bg-footer>.container-custom>.container-fluid>.row {
         flex-direction: column !important;
     }
+
     .col-4,
     .col-8 {
         position: relative;
@@ -741,6 +772,7 @@ input::placeholder {
         padding-left: 15px;
         margin-bottom: 40px;
     }
+
     .footer-heading,
     .footer-link {
         font-size: 13px;
@@ -760,25 +792,31 @@ input::placeholder {
         padding-right: 3rem;
         padding-left: 3rem;
     }
+
     .grid-gallery {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(303px, 1fr));
         grid-auto-rows: 303px;
         gap: 10px;
     }
+
     .img-box {
         height: 230px;
     }
+
     .bottom-title-link {
         font-size: 14px;
         line-height: 152.34%;
     }
+
     .pagination-link {
         width: 60px;
     }
+
     .pagination-link-next {
         width: 100px;
     }
+
     .pagination-link,
     .pagination-link-next {
         height: 60px;
@@ -786,21 +824,26 @@ input::placeholder {
         line-height: 14px;
         padding: 22px 21px 22px 20px;
     }
+
     .col-8>.row {
         flex-direction: row;
     }
+
     .row-cols-3>* {
         flex: 0 0 auto;
         width: 33.3333333333%;
     }
+
     .custom-padding-top {
         padding-top: 52px;
         padding-left: 30px;
         justify-content: flex-start;
     }
+
     .bg-black>.container-custom>.container-fluid {
         flex-direction: row;
     }
+
     .footer-link-small {
         font-size: 12px;
         margin-bottom: 0;
@@ -812,14 +855,17 @@ input::placeholder {
         padding-right: 4rem;
         padding-left: 4rem;
     }
+
     .search-result {
         flex-direction: row;
     }
+
     .search-result-count,
     .search-result-menu {
         flex-direction: row;
         padding-bottom: 0;
     }
+
     .footer-text {
         width: 60%;
     }
@@ -830,27 +876,33 @@ input::placeholder {
         padding-right: 5rem;
         padding-left: 5rem;
     }
+
     .h1-custom,
     .subtitle {
         width: 50%;
     }
+
     .custom-link {
         font-size: 13px;
         width: 100%;
         margin-right: 0;
     }
+
     .filter-button {
         padding: 20px 50px;
         margin: 0;
     }
+
     .grid-section {
         grid-template-columns: 80% minmax(min-content, 20%);
         grid-template-areas: "top-menu side-menu""gallery side-menu""pagination side-menu";
         column-gap: 30px;
     }
+
     .grid-side-menu {
         text-align: left;
     }
+
     .footer-heading,
     .footer-link {
         font-size: 15px;
@@ -863,30 +915,37 @@ input::placeholder {
         padding-right: 6rem;
         padding-left: 6rem;
     }
+
     .custom-link {
         font-size: 14px;
     }
+
     .filter-button {
         padding: 20px 64px;
     }
+
     .bg-footer>.container-custom>.container-fluid>.row {
         flex-direction: row !important;
     }
+
     .col-4 {
         flex: 0 0 auto;
         width: 33.33333333%;
         margin-bottom: 0;
     }
+
     .col-8 {
         flex: 0 0 auto;
         width: 66.66666667%;
         margin-bottom: 0;
     }
+
     .custom-padding-top {
         padding-top: 82px;
         padding-left: 10px;
         justify-content: center;
     }
+
     .footer-text {
         width: 70%;
     }
@@ -896,58 +955,74 @@ input::placeholder {
     .navbar-expand-xxl .navbar-collapse {
         justify-content: flex-end !important;
     }
+
     .custom-nav-item {
         align-self: end;
     }
+
     .navbar {
         padding-top: 0;
         padding-bottom: 0;
     }
+
     .navbar-nav {
         margin-top: 0;
         margin-bottom: 0;
     }
+
     .navbar-light>.container-custom {
         padding: 30px 7rem;
     }
+
     .nav-item {
         margin-top: 0;
         margin-bottom: 0;
     }
+
     .nav-item .cart {
         transform: translate(0%, 0%) scale(1);
         margin-bottom: 14px;
     }
+
     .container-custom {
         padding-right: 7rem;
         padding-left: 7rem;
     }
+
     .promo .container-custom {
         padding-top: 110px;
         padding-bottom: 110px;
     }
+
     .promo {
         margin-bottom: 90px;
     }
+
     .h1-custom {
         font-size: 44px;
     }
+
     .search-container {
         margin-bottom: 70px;
     }
+
     .grid-section {
         margin-bottom: 102px;
     }
+
     .bottom-title-link {
         width: 70%;
     }
+
     .pagination {
         padding-top: 106px;
     }
+
     .bg-footer>.container-custom {
         padding-top: 46px;
         padding-bottom: 30px;
     }
+
     .bg-black>.container-custom {
         padding-top: 13px;
         padding-bottom: 13px;
@@ -955,26 +1030,32 @@ input::placeholder {
 }
 
 @media screen and (min-width: 1500px) {
+
     .navbar-light>.container-custom,
     .bg-footer>.container-custom,
     .bg-black>.container-custom {
         width: 1320px;
     }
+
     .navbar-light>.container-custom {
         padding: 30px 0;
     }
+
     .container-custom,
     .promo .container-custom {
         padding-right: 156px;
         padding-left: 156px;
         max-width: 1500px;
     }
+
     .grid-section {
         column-gap: 50px;
     }
+
     .bg-footer>.container-custom {
         padding: 46px 0 30px 0;
     }
+
     .bg-black>.container-custom {
         padding: 13px 0;
     }
